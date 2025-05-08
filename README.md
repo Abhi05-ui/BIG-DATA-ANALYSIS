@@ -30,12 +30,13 @@ During my internship at CODETECH, I successfully completed four core tasks focus
 
 # TASK - 4 : Sentiment Analysis with NLP
 
-# OUTPUT : 
-
-![Image](https://github.com/user-attachments/assets/e297caa5-8dca-4048-9059-7cdfe9d820fc)
-
 1.Conducted sentiment analysis on textual data (e.g., tweets or reviews) using Natural Language Processing (NLP) techniques.
 
 2.Preprocessed the data, implemented sentiment models, and derived meaningful insights documented in a notebook.
 
 Throughout this experience, I maintained clean and well-documented code in a GitHub repository, collaborated effectively through group updates, and utilized online resources to enhance the quality and efficiency of my work.
+
+# OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/e297caa5-8dca-4048-9059-7cdfe9d820fc)
+
